@@ -2,6 +2,7 @@
 
 int y;
 
+
 int main()
 {
 	scanf("%d", &y);
@@ -13,7 +14,7 @@ int main()
 	
 	else printf("0");
 	
-	return 0£» 
+	return 0Â£Â» 
  } 
 /*
 .data
